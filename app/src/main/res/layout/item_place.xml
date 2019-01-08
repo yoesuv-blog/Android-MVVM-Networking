@@ -6,7 +6,7 @@
     <data>
         <variable
                 name="itemPlace"
-                type="com.yoesuv.mvvmnetworking.viewmodels.ItemPlaceViewModel"/>
+                type="com.yoesuv.mvvmnetworking.menu.viewmodels.ItemPlaceViewModel"/>
     </data>
 
     <RelativeLayout

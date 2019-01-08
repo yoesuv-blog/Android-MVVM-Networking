@@ -1,4 +1,4 @@
-package com.yoesuv.mvvmnetworking.viewmodels
+package com.yoesuv.mvvmnetworking.menu.viewmodels
 
 import android.app.Application
 import android.arch.lifecycle.AndroidViewModel

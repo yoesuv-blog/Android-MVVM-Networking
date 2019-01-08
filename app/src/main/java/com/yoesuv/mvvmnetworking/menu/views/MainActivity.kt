@@ -1,4 +1,4 @@
-package com.yoesuv.mvvmnetworking.views
+package com.yoesuv.mvvmnetworking.menu.views
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
