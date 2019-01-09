@@ -1,5 +1,5 @@
 #### source code untuk post ####
-![Android Kotlin MVVM Networking dengan Rx Java dan Rx Android](https://yoesuv.blogspot.com/2019/01/android-kotlin-mvvm-networking-dengan.html)
+[Android Kotlin MVVM Networking dengan Rx Java dan Rx Android](https://yoesuv.blogspot.com/2019/01/android-kotlin-mvvm-networking-dengan.html)
 
 | Screenshot |
 | :---: |
