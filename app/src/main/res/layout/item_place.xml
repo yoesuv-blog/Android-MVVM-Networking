@@ -18,7 +18,9 @@
                 android:id="@+id/imageViewItemPlace"
                 android:layout_width="70dp"
                 android:layout_height="70dp"
-                app:srcCompat="@drawable/sample_image"/>
+                android:scaleType="centerCrop"
+                app:srcCompat="@drawable/sample_image"
+                app:loadImage="@{itemPlace.image}"/>
 
         <LinearLayout
                 android:id="@+id/layoutText"
@@ -36,6 +38,7 @@
                     android:id="@+id/textTitle"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
+                    android:text="@{itemPlace.title}"
                     android:textSize="18sp"
                     android:textStyle="bold"
                     tools:text="Place Name"/>
@@ -45,6 +48,7 @@
                     android:id="@+id/textLocation"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
+                    android:text="@{itemPlace.location}"
                     tools:text="Place Location"/>
 
         </LinearLayout>
